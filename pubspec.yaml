@@ -72,10 +72,20 @@ flutter:
     - assets/explore.svg
     - assets/messages.svg
     - assets/profile.svg
-    - assets/course_title_1.png
-    - assets/course_title_2.png
-    - assets/course_title_3.png
-    
+    - assets/card1.png
+    - assets/card2.png
+    - assets/card3.png
+    - assets/live-circle.png
+    - assets/back_icon.png
+    - assets/heart.png
+    - assets/play_icon.png
+    - assets/pfp.png
+    - assets/red_play_button.png
+    - assets/calendar.png
+    - assets/search.png
+    - assets/stopwatch.png
+    - assets/facebook.png
+    - assets/google.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
