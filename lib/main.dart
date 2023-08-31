@@ -15,16 +15,12 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        fontFamily: 'Poppins',
         useMaterial3: true,
       ),
       initialRoute: '/',
       routes: {
         '/':(context) => welcomescreen(),
-        // '/screen2': (context) => Screen2(),
-        // '/screen3': (context) => Screen3(),
-        // '/screen4': (context) => Screen4(),
-        // '/screen5': (context) => Screen5(),
-
       },
     );
   }
